@@ -1,3 +1,9 @@
+/*Pedro Paulo Ferreira Pinto
+O código inicia declarando as variáveis, depois solicita a entrada do usuário com a opção desejada, que precisa ser entre 1 e 6. Depois, utiliza os if, else if e else
+para recolher as entradas específicas para cada operação. Ao fim, mostra qual conta fazer para cada operação desejada, com os valores n1 e n2 inseridos pelo usuário.
+As últimas linhas dão o resultado e permitem ao usuário fazer nova operação ou sair. Tive alguma dificuldade para fazer, mas um amigo desenvolvedor me tirou as
+dúvidas*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
